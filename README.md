@@ -12,7 +12,7 @@ PHP-React is a front-end PHP framework that allows for component-based website d
 
 ## Installation
 
-Run `bower install php-react` to get started
+Run `composer install php-react` to get started
 
 ## License
 
@@ -20,4 +20,4 @@ This project uses the [MIT License](LICENSE).
 
 ## Contributing
 
-See [CONTRIBUTING in the docs folder](docs/CONTRIBUTING)
+Thank you for considering contributing to the PHP-React framework! The contribution guide can be found [in the docs folder](docs/CONTRIBUTING)

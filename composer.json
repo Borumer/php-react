@@ -1,0 +1,18 @@
+{
+    "name": "varuns/php-react",
+    "description": "A front-end PHP framework that uses a React-like engine for building component-based sites",
+    "type": "project",
+    "keywords": [
+        "framework",
+        "phx",
+        "php-react"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Varun",
+            "email": "31084854+Borumer@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
